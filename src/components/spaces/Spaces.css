@@ -1,0 +1,16 @@
+.space_wrapper {
+    display: flex;
+}
+.space {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    padding: 1em .5em
+}
+.space label {
+    flex: 1 100%;
+}
+.space img {
+   max-width: 100%;
+   height: auto;
+}
